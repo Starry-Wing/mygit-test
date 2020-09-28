@@ -1,0 +1,25 @@
+{
+    "perception":
+    {
+        "inputText":
+        {
+            "text": ""
+        },
+
+        "selfInfo":
+        {
+            "location":
+            {
+                "city": "绵阳",
+                "province": "四川",
+                "street": "西南科技大学"
+            }
+        }
+    },
+
+    "userInfo":
+    {
+        "apiKey": "7bb0eb7ed50a4976ae3ceb47313ea196",
+        "userId": "starwing"
+    }
+}
